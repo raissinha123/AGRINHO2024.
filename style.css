@@ -3,12 +3,24 @@ background-color: indigo;
 }
 
 header{
+    display: flex;
     background-color: rgb(107, 0, 139);
-
 }
 
 footer{
-
 background-color: rgb(161, 66, 209);
+}
 
+.cabecalho_imagem{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+cabecalho_menu-listaitem{
+    display: inline;
+    text-transform: uppercase;
+    margin-left: 10px;
 }

@@ -25,11 +25,11 @@ background-color: rgb(161, 66, 209);
 
     margin: 20px;
 
-    
+
 }
 
 
-cabecalho_menu-listaitem{
+.cabecalho_menu-listaitem{
     display: inline;
     text-transform: uppercase;
     margin-left: 10px;

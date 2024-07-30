@@ -24,7 +24,11 @@ padding: 20px;
     text-transform: uppercase;
     margin: 30px;
 }
+.sobre_imagem{
 
+    width: 400px;
+    height: 400px;
+}
 .sobre{
 display: flex;
 justify-content: center;
@@ -33,7 +37,8 @@ align-items: center;
 }
 
 .sobre_texto{
-
+    width: 400px;
+    height: 400px;
     padding: 40px;
 }
 
